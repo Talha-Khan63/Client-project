@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    float: right;
+}
+#logo{
+    margin-right: 400px;
+}
+.container-fluid{
+background-color: white;
+}
+.navbar a{
+    padding: 10px;
+    margin: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    margin-top: 50px;
+   
+}
+.card{
+    margin: 20px;
+    width: 300px;
+}
+.card a{
+    background-color: #15443F;
+}
+
+
+
+
+
+
+
+
+/* contact page styling */
